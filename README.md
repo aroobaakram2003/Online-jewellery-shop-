@@ -1,8 +1,8 @@
-
 # 💍 Online Jewellery Shop
 
 ## 1. Introduction / Overview
 The **Online Jewellery Shop** is a web-based platform designed to provide customers with an easy, secure, and convenient way to browse, select, and purchase jewellery online.  
+
 The system allows users to:
 - View jewellery by category  
 - Check product details  
@@ -45,13 +45,11 @@ Therefore, there is a need for an **online jewellery platform** that offers a wi
 ---
 
 ## 5. Tools and Technologies
-| Component | Technology |
-|------------|-------------|
-| **Frontend** | HTML, CSS, JavaScript, Bootstrap |
-| **Backend** | PHP / Python (Django / Flask) or Node.js |
-| **Database** | MySQL / Firebase |
-| **Server** | XAMPP / WAMP or Online Hosting |
-| **Version Control** | GitHub |
+- **WordPress**  
+- **WooCommerce**  
+- **Elementor** for frontend customization  
+- **MySQL** for data storage  
+- **Stripe / PayPal** for payment processing  
 
 ---
 
